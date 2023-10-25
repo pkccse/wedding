@@ -2256,7 +2256,7 @@ h4 {
 
 .container .box .body .imgContainer .centered-text {
     position: absolute;
-    top: 50%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #00000075;
