@@ -337,7 +337,7 @@ figure {
     top: 0;
     left: 0;
     right: 0;
-    background: rgb(0 0 0 / 21%);
+    background: rgb(0 0 0 / 71%);
 }
 
 .fh5co-cover>.fh5co-container {
@@ -353,7 +353,7 @@ figure {
 
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
-    height: 900px;
+    height: 650px;
     display: table;
     width: 100%;
 }
@@ -1040,7 +1040,7 @@ form label {
     display: inline-block;
     width: 100px;
     height: 100px;
-    background: #ffc1076e;
+    background: #9c27b07d;
     margin: 0 4px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
